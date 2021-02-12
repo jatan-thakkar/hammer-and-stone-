@@ -1,1 +1,2 @@
-# hammer-and-stone-
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
